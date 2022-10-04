@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "prison_proj",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32615" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1.0, "full_id": "w108706564", "osm_id": "108706564", "osm_type": "way", "amenity": "prison", "website": "https://www.stlouis-mo.gov/government/departments/public-safety/corrections/city-justice-center.cfm", "phone": "+1 314 621 5848", "name": "Saint Louis City Justice Center", "building_l": "5", "building": "yes", "addr_stree": "Tucker Boulevard", "addr_state": "MO", "addr_postc": "63102", "addr_house": "200", "addr_city": "Saint Louis" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 743888.159853637916967, 4279019.554663701914251 ], [ 743916.266889409860596, 4279011.814408207312226 ], [ 743965.687286848202348, 4278998.204097731970251 ], [ 743953.76813327439595, 4278955.323014133609831 ], [ 743876.240338244708255, 4278976.673712742514908 ], [ 743888.159853637916967, 4279019.554663701914251 ] ] ] ] } }
+]
+}

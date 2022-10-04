@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "bus_stop_proj",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32615" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1.0, "full_id": "n3977288828", "osm_id": "3977288828", "osm_type": "node", "amenity": "bus_station", "public_tra": "station", "name": "Gravois-Hampton Bus Station", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 735759.43498434626963, 4271937.460529008880258 ] } },
+{ "type": "Feature", "properties": { "fid": 2.0, "full_id": "n5590658125", "osm_id": "5590658125", "osm_type": "node", "amenity": "bus_station", "public_tra": "station", "name": "Broadway Taylor Transit Center", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 741764.016498433775268, 4285604.700538801960647 ] } },
+{ "type": "Feature", "properties": { "fid": 3.0, "full_id": "n5590739851", "osm_id": "5590739851", "osm_type": "node", "amenity": "bus_station", "public_tra": "station", "name": "Catalan Transit Center", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 738291.647642166935839, 4269289.780081181786954 ] } },
+{ "type": "Feature", "properties": { "fid": 4.0, "full_id": "n5901383310", "osm_id": "5901383310", "osm_type": "node", "amenity": "bus_station", "public_tra": "station", "name": "Civic Center Transit Center", "bus": "yes" }, "geometry": { "type": "Point", "coordinates": [ 743534.526183309732005, 4278864.900659182108939 ] } }
+]
+}

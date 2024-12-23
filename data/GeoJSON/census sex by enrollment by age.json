@@ -1,0 +1,148 @@
+{
+    "release": {
+        "id": "acs2020_5yr",
+        "years": "2016-2020",
+        "name": "ACS 2020 5-year"
+    },
+    "tables": {
+        "B14004": {
+            "title": "Sex by College or Graduate School Enrollment by Type of School by Age for the Population 15 Years and Over",
+            "universe": "Population 15 Years and Over",
+            "denominator_column_id": "B14004001",
+            "columns": {
+                "B14004001": {
+                    "name": "Total:",
+                    "indent": 0
+                },
+                "B14004002": {
+                    "name": "Male:",
+                    "indent": 1
+                },
+                "B14004003": {
+                    "name": "Enrolled in public college or graduate school:",
+                    "indent": 2
+                },
+                "B14004004": {
+                    "name": "15 to 17 years",
+                    "indent": 3
+                },
+                "B14004005": {
+                    "name": "18 to 24 years",
+                    "indent": 3
+                },
+                "B14004006": {
+                    "name": "25 to 34 years",
+                    "indent": 3
+                },
+                "B14004007": {
+                    "name": "35 years and over",
+                    "indent": 3
+                },
+                "B14004008": {
+                    "name": "Enrolled in private college or graduate school:",
+                    "indent": 2
+                },
+                "B14004009": {
+                    "name": "15 to 17 years",
+                    "indent": 3
+                },
+                "B14004010": {
+                    "name": "18 to 24 years",
+                    "indent": 3
+                },
+                "B14004011": {
+                    "name": "25 to 34 years",
+                    "indent": 3
+                },
+                "B14004012": {
+                    "name": "35 years and over",
+                    "indent": 3
+                },
+                "B14004013": {
+                    "name": "Not enrolled in college or graduate school:",
+                    "indent": 2
+                },
+                "B14004014": {
+                    "name": "15 to 17 years",
+                    "indent": 3
+                },
+                "B14004015": {
+                    "name": "18 to 24 years",
+                    "indent": 3
+                },
+                "B14004016": {
+                    "name": "25 to 34 years",
+                    "indent": 3
+                },
+                "B14004017": {
+                    "name": "35 years and over",
+                    "indent": 3
+                },
+                "B14004018": {
+                    "name": "Female:",
+                    "indent": 1
+                },
+                "B14004019": {
+                    "name": "Enrolled in public college or graduate school:",
+                    "indent": 2
+                },
+                "B14004020": {
+                    "name": "15 to 17 years",
+                    "indent": 3
+                },
+                "B14004021": {
+                    "name": "18 to 24 years",
+                    "indent": 3
+                },
+                "B14004022": {
+                    "name": "25 to 34 years",
+                    "indent": 3
+                },
+                "B14004023": {
+                    "name": "35 years and over",
+                    "indent": 3
+                },
+                "B14004024": {
+                    "name": "Enrolled in private college or graduate school:",
+                    "indent": 2
+                },
+                "B14004025": {
+                    "name": "15 to 17 years",
+                    "indent": 3
+                },
+                "B14004026": {
+                    "name": "18 to 24 years",
+                    "indent": 3
+                },
+                "B14004027": {
+                    "name": "25 to 34 years",
+                    "indent": 3
+                },
+                "B14004028": {
+                    "name": "35 years and over",
+                    "indent": 3
+                },
+                "B14004029": {
+                    "name": "Not enrolled in college or graduate school:",
+                    "indent": 2
+                },
+                "B14004030": {
+                    "name": "15 to 17 years",
+                    "indent": 3
+                },
+                "B14004031": {
+                    "name": "18 to 24 years",
+                    "indent": 3
+                },
+                "B14004032": {
+                    "name": "25 to 34 years",
+                    "indent": 3
+                },
+                "B14004033": {
+                    "name": "35 years and over",
+                    "indent": 3
+                }
+            }
+        }
+    }
+}

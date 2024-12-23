@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "osm event conference center points",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "full_id": "n4712780008", "osm_id": "4712780008", "osm_type": "node", "amenity": "community_centre", "phone": null, "addr:state": null, "website": null, "operator": null, "name": null, "addr:street": null, "addr:postcode": null, "addr:housenumber": null, "addr:city": null }, "geometry": { "type": "Point", "coordinates": [ -90.2708058, 38.5990521 ] } },
+{ "type": "Feature", "properties": { "full_id": "n5167711521", "osm_id": "5167711521", "osm_type": "node", "amenity": "community_centre", "phone": null, "addr:state": null, "website": "https://prosperityconnection.org/excel-center/", "operator": "Prosperity Connection", "name": "Excel Center", "addr:street": "14th Street", "addr:postcode": "63106", "addr:housenumber": "2707", "addr:city": "Saint Louis" }, "geometry": { "type": "Point", "coordinates": [ -90.197556, 38.6506624 ] } },
+{ "type": "Feature", "properties": { "full_id": "n8678924881", "osm_id": "8678924881", "osm_type": "node", "amenity": "events_venue", "phone": "(314) 899-0612", "addr:state": "MO", "website": "612north.com", "operator": null, "name": "612North Event Space and Catering", "addr:street": "North 2nd Street", "addr:postcode": "63102", "addr:housenumber": "612", "addr:city": "Saint Louis" }, "geometry": { "type": "Point", "coordinates": [ -90.1845185, 38.6297911 ] } },
+{ "type": "Feature", "properties": { "full_id": "n9225548230", "osm_id": "9225548230", "osm_type": "node", "amenity": "events_venue", "phone": null, "addr:state": "MO", "website": "http://www.jeffersonunderground.com/", "operator": null, "name": "Jefferson Underground", "addr:street": "South Jefferson Avenue", "addr:postcode": "63104", "addr:housenumber": "2400", "addr:city": "Saint Louis" }, "geometry": { "type": "Point", "coordinates": [ -90.2224329, 38.6065942 ] } }
+]
+}
